@@ -13,3 +13,9 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 3. Dichiarazione variabile "autorizzato"
 4. Ciclo for per verificare se l'email inserita dall'utente è presente nell'array
 5. Output messaggi di accesso consentito o negato
+6. Se l'accesso è stato autorizzato stampiamo il messaggio di benvenuto e visualizzo il gioco dei dadi
+## Esecuzione "Dadi"
+1. Generazione numero random da 1 a 6 per giocatore e per pc
+2. Stampa i numeri generati
+3. Stabilire il vincitore
+4. Stampa vincitore
